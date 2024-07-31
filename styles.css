@@ -1,0 +1,43 @@
+.homediv{
+    background-color: rgb(59, 61, 62);
+    float: left;
+    height: 25vh;
+    width: 25vw;
+    border-radius: 20px;
+    margin: 5px;
+}
+.details{
+    background-color: rgb(59, 61, 62);
+    float: right;
+    height: 100vh;
+    width: 72vw;
+    border-radius: 20px;
+    margin-bottom: 4px;
+    margin-top: 5px;
+}
+.yourlibrary{
+    background-color: rgb(59, 61, 62);
+    height: 74vh;
+    width: 25vw;
+    float: left;
+    justify-content: center;
+    border-radius: 20px;
+    margin: 5px;
+}
+.yourlibrarytext{
+    display: inline-block;
+    color: whitesmoke;
+    padding: 20px;
+    background-color: black;
+    margin: 10px;
+    border-radius: 50px;
+}
+.textrecents{
+    font-family: "Gill Sans", sans-serif;
+    padding-left: 20px;
+    display: inline-block;
+
+}
+.imgsong{
+    border: 50px;
+}
